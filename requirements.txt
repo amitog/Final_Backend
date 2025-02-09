@@ -36,7 +36,7 @@ pydeck==0.9.1
 pyparsing==3.2.1
 python-dotenv==1.0.1
 pytz==2024.2
-pywin32==307
+pywin32
 referencing==0.36.2
 requests==2.32.3
 rich==13.9.4
